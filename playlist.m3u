@@ -8,7 +8,7 @@ https://ott2.canalplus-myanmar.com/bpk-tv/MAHARBAWDI/output2/index.mpd
 https://live-stream.dvb.no/hls/stream_higher/index.m3u8
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" VOAnews.com " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/330px-VOA_logo.svg.png" group-title="Myanmar Tv" ,VOA
 https://voa-video-hls-ns.akamaized.net/pangeavideo/2025/03/e/eb/eb812b56-3898-4d0b-8e09-01ef70829123_master.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/k4K5kbjT/iQIYI.png" tvg-id=" 5PLUS.mm " tvg-logo="https://static-content-glb.solocoo.tv/epg/live/myanmar/channelicons/5Plus_m.png" group-title="Myanmar Tv" ,5PLUS
+#EXTINF:-1 group-logo="https://i.postimg.cc/k4K5kbjT/iQIYI.png" tvg-id=" 5PLUS.mm " tvg-logo="https://i.postimg.cc/k4K5kbjT/iQIYI.png" group-title="Myanmar Tv" ,5PLUS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
