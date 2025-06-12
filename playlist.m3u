@@ -15,7 +15,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=166e3f35f2064c78b66d43c11d6f8faa:694d903da7566927cb046b9df2e39f36
 https://ott2.canalplus-myanmar.com/bpk-tv/TVN/output2/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M1vnPP7/kbs.png" group-title="ALL SPORTS" ,KBS_WORLD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4Sq3TD2/kbsworld.png" group-title="ALL SPORTS" ,KBS_WORLD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d00c22ab5d16474ebd0c41869359be62:5ea00adc2c8ee8ec2120103b9da05be7
