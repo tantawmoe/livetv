@@ -51,41 +51,24 @@ https://ott2.canalplus-myanmar.com/bpk-tv/WSports/output2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f0e8d49f60e342808bc756e246de64fb:7ed5fc457bd396096f5661c8ff96f927
 https://ott2.canalplus-myanmar.com/bpk-tv/ManU_TV/output2/index.mpd
 
-#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/43cw4y0f/arenasports1.png",Arena Sport 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd
-#
-#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/vHxrz5Vx/sport1.png",Sport 1 (Slovakia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/LXsfZPSX/sport2.png",Sport 2 (Slovakia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-#
 #EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/arenapremium.png",Arena Sport 4 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"77ce6938c781526e999b688992f27764": "bf1178841770fdba74f8629f0f06d2c0", "68cd661dbc8352fda000c532840f6340": "0255fb620f4f707ea7ba090058718306", "89d1dc54692e5b4fb5995fc0953bf5bf": "31b8953ab60b90fefc93d9bd1b806fbc"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
-#
+
 #EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/arenapremium.png",Arena Sport 5 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"34a709bbeac052f293c778c0770829fd": "2b801fde1ad4839d4080d6ec6b0ec4ce", "e473ec5d96f45a9f9a22eb665b5b1ea9": "ace54ce15b69d249b00395c9e6b85b90", "18d3fba08f3152c38f14151219fa9792": "78b0c5b961351e482be81287466ecb08"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
-#
+
 #EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/arenapremium.png",Arena Sport 6 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b3b60e79989a5b2799fa3a2394b8749f": "a25d21e333dad3d131f126b7b57730be", "bfd8ff04a3625fcea8335c9575401697": "769d61a2d6fd7030a5088df2e70c2654", "5a86e42c58cf5d008546861c0f0fb22a": "67b1172a05bcb38a91a304d7098ce7f5"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
-#
+
 #EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/arenapremium.png",Arena Sport 7 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -142,11 +125,6 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4281ee112555097325058cb7355035b4": "1a88899547f7fd4a5c22ee8150d89208", "b4023d3a71316ed3cd06af7e43988d31": "91a96d592dd6e946b0f0074d15ac1168", "441100b7de65d7c582a9c71140e46f79": "ef37dadc14bdade17224ef4bc9f87ce6", "43faba2da98eeeeb42481dca873d3460": "f8b58939398e5a5574c18408d304d44e", "92e8cc9527c7f56a10777278cb801027": "4ce3f3e2234f00b21ba77006f197832a"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srx5bGb.png" group-title="ALL SPORTS", DAZN LaLiga
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 ==========================================================
 ==========================================================
@@ -299,6 +277,23 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/vHxrz5Vx/sport1.png",Sport 1 (Slovakia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/LXsfZPSX/sport2.png",Sport 2 (Slovakia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srx5bGb.png" group-title="ALL SPORTS", DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srx5bGb.png" group-title="ALL SPORTS", DAZN 1 Spain
 #KODIPROP:inputstream.adaptive.license_type=clearkey
