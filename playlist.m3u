@@ -294,6 +294,36 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/d1Wz62td/tsn.png",TSN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8df41512092240d38550e83dc05e157e:f29f106ec9f58b41c7c8391b64f3bb25
+https://live-cito.9c9media.ca/e6355057b4828b7b44134a35c3899ae7876f9ce91738223229770/f/tsn1/manifest.mpd
+
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/d1Wz62td/tsn.png",TSN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=885df0ea68814a11a3dd7718725f4075:ab3698f738c4b90c11de7239cb5ed7c1
+https://live-cito.9c9media.ca/0947ad1fd5b8c6098a9e60f3c27b87d2e42ba5571738223303096/f/tsn2/manifest.mpd
+
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/d1Wz62td/tsn.png",TSN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=473177ea3d394060a0d0c266521ffd68:cb6366270ecf03b7b80aae491ef9d618
+https://live-cito.9c9media.ca/0327565ea922ea2b67e74415fad16c7480c3fe4c1738223326649/f/tsn3/manifest.mpd
+
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/d1Wz62td/tsn.png",TSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c6872a2902a4617b878999bf32ccf87:fc53eba9d731de52e83a23d98bea304a
+https://live-cito.9c9media.ca/9b36454b2e12f9448e4b274dae09afaf77de7f3d1738223354269/f/tsn4/manifest.mpd
+
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/d1Wz62td/tsn.png",TSN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4608dc9b6164cd7b96791af91cc334c:8d4bc6537629d3f7ad5aa4e75516f6da
+https://live-cito.9c9media.ca/d4394f4d0bffe46942a2afeacbf27958d914e2051738223371866/f/tsn5/manifest.mpd
+
 #EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/vHxrz5Vx/sport1.png",Sport 1 (Slovakia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
