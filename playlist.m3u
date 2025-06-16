@@ -27,6 +27,15 @@ https://ott2.canalplus-myanmar.com/bpk-tv/KBS_WORLD/output2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/pVC4ZQS8/kpop.png",KPOP
+https://live.24hrkpop.com/hls/3/stream.m3u8
+
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/T119Qbyq/the-kpop.png",THE KPOP
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
+
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/630jMwMw/new-kpop.png",NEW KPOP
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/76da8a34-9b9c-4920-b86f-934fbdaa2fcf/2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRGt9qP7/canal-sports1.png" group-title="ALL SPORTS" ,CANAL_SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
