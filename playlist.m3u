@@ -469,9 +469,8 @@ https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd
 #EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/43cw4y0f/arenasports1.png",Arena Sport 1 Croatia
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:widevine_license_url=https://drm.antik.sk/widevine/key
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 
 
