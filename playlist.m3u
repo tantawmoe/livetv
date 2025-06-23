@@ -470,7 +470,7 @@ https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd
 #EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/43cw4y0f/arenasports1.png",Arena Sport 1 Croatia
 #KODIPROP:widevine_license_url=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd
+https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 
 
 
