@@ -472,7 +472,7 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#KODIPROP:widevine_license_url=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd
 
 
